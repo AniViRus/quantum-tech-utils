@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Quantum Technology Utilities",
+	"Description": "Adds more Tier 8-9 alternative recipes for new ways to manage your factory!",
+	"Category": "Modding",
+	"CreatedBy": "AniViRus Productions",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.9.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=383729",
+	"LocalizationTargets": [
+		{
+			"Name": "QuantumTechUtils",
+			"LoadingPolicy": "Always"
+		}
+	]
+}

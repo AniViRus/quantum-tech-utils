@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.1.1",
 	"FriendlyName": "Quantum Technology Utilities",
 	"Description": "Adds more Tier 8-9 alternative recipes for new ways to manage your factory!",
 	"Category": "Modding",
@@ -18,10 +18,10 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.9.0"
+			"SemVersion": "^3.10.0"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.1.1",
 	"GameVersion": ">=383729",
 	"LocalizationTargets": [
 		{
